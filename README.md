@@ -4,4 +4,4 @@
 
 - Run in terminal `ngrok http your_port`
 
-* Note: Remeber to change your token
+* Note: Remember to change your token
